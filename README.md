@@ -1,5 +1,3 @@
-# React + TypeScript + Vite with BackEnd-Tattoo 
-
 # Frontend Tattoo — CRUD System
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -12,18 +10,7 @@
 Construído como projeto de portfólio para demonstrar arquitetura front-end escalável, consumo de APIs RESTful e boas práticas na organização de código e estados da aplicação.
 
  Frontend-Tatto é um sistema web para exibição e venda de tatuagens, apresenta funcionalidades CRUD (Create, Read, Update, Delete).
-
-- Stack Tecnológica
-
- ◦ React 
-
- ◦ JavaScript / TypeScript
-
- ◦ Vite 
-
- ◦ HTML5 & CSS3
-
- ◦ Axios
+ 
 
 ``` Durante o desenvolvimento deste projeto, foram praticados:```
 
