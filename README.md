@@ -5,7 +5,9 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
-*Web system for displaying, managing, and commercializing tattoos, developed with full CRUD (Create, Read, Update, Delete) functionality and API integration."*
+*A modern web platform for displaying, managing, and showcasing tattoo designs, featuring complete CRUD (Create, Read, Update, Delete) operations and REST API integration.*
+
+Built as a portfolio project to demonstrate scalable front-end architecture, state management, component reusability, and clean code practices in React and TypeScript.
 
 
 
@@ -14,19 +16,12 @@
 - [Como Rodar o Projeto](#como-rodar-o-projeto)
 - [Architecture](#Architecture)
 - [Tech stack](#Tech-stack)
+
+  
 # What it does
- 
- Frontend-Tatto é um sistema web para exibição e venda de tatuagens, apresenta funcionalidades CRUD (Create, Read, Update, Delete).
- 
 
-``` Durante o desenvolvimento deste projeto, foram praticados:```
-
-- Estruturação e organização do front-end
-
-- Criação de componentes reutilizáveis
-
+ - Criação de componentes reutilizáveis
 - Uso de bundler moderno (Vite)
-
  
 # Architecture
 
@@ -44,10 +39,6 @@ src/
 2. Iniciar o projeto
 
 - Execute: npm run dev
-
-## ~~~English ->
-
-Frontend-Tatto is a web system for displaying and selling tattoos, featuring CRUD functionalities (Create, Read, Update, Delete).
 
 
 # Tech stack
@@ -71,23 +62,6 @@ Front-end structuring and organization
 Creation of reusable components
 
 Use of a modern bundler (Vite)
-
-📁 Project Structure
-
-```
-src/
-├── components/ # Reusable UI components
-├── pages/ # Main pages
-├── assets/ # Images, icons, and styles
-├── App.tsx # General application structure
-└── main.tsx # Entry point
-```
-
-- Run: npm install (to download all Vite and TypeScript dependencies)
-
-2. Start the project
-
-- Run: npm run dev
 
 ## Below is the presentation of the website and its functionality.
 
