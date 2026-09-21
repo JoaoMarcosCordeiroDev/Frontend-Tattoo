@@ -9,7 +9,7 @@
 
 Built as a portfolio project to demonstrate scalable front-end architecture, state management, component reusability, and clean code practices in React and TypeScript.
 
-
+**Frontend Tattoo** was developed to streamline management and display within tattoo studio ecosystems. The application enables dynamic catalog management and seamlessly communicates with a backend service to persist data in real-time.
 
 # Table of contents
 - [What it does](#What-it-does)
@@ -17,11 +17,31 @@ Built as a portfolio project to demonstrate scalable front-end architecture, sta
 - [Architecture](#Architecture)
 - [Tech stack](#Tech-stack)
 
+
+- [About the Project](#about-the-project)
+- [Key Features](#key-features)
+- [Tech Stack](#tech-stack)
+- [Project Architecture](#project-architecture)
+- [Getting Started](#getting-started)
+- [Demonstration](#demonstration)
+- [Roadmap](#roadmap)
+- [License](#license)
+
+
   
 # What it does
 
+
+**Frontend Tattoo** was developed to streamline management and display within tattoo studio ecosystems. The application enables dynamic catalog management and seamlessly communicates with a backend service to persist data in real-time.
  - Criação de componentes reutilizáveis
 - Uso de bundler moderno (Vite)
+  
+  ### Highlights & Engineering Practices
+- **Front-end Architecture:** Modular structure with clear separation of concerns.
+- **Component Design:** Highly reusable UI elements built with React and TypeScript.
+- **API Integration:** Asynchronous data fetching and handling via Axios.
+- **Performance:** Fast build times and module serving powered by Vite.
+
  
 # Architecture
 
