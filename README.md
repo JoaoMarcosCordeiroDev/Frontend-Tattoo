@@ -9,6 +9,10 @@
 
 
 
+# Table of contents
+- [Estrutura do Projeto](#estrutura-do-projeto)
+- [Como Rodar o Projeto](#como-rodar-o-projeto)
+
  Frontend-Tatto é um sistema web para exibição e venda de tatuagens, apresenta funcionalidades CRUD (Create, Read, Update, Delete).
  
 
