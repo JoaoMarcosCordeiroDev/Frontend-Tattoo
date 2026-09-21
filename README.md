@@ -10,9 +10,12 @@
 
 
 # Table of contents
-- [Estrutura do Projeto](#estrutura-do-projeto)
+- [What it does](#What-it-does)
 - [Como Rodar o Projeto](#como-rodar-o-projeto)
-
+- [Architecture](#Architecture)
+- [Tech stack](#Tech-stack)
+# What it does
+ 
  Frontend-Tatto é um sistema web para exibição e venda de tatuagens, apresenta funcionalidades CRUD (Create, Read, Update, Delete).
  
 
@@ -25,7 +28,7 @@
 - Uso de bundler moderno (Vite)
 
  
-📁 Estrutura do Projeto
+# Architecture
 
 ```
 src/
@@ -45,6 +48,9 @@ src/
 ## ~~~English ->
 
 Frontend-Tatto is a web system for displaying and selling tattoos, featuring CRUD functionalities (Create, Read, Update, Delete).
+
+
+# Tech stack
 
 -  Technology Stack
 
