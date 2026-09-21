@@ -5,9 +5,9 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
-*Sistema web moderno para exibição, gestão e comercialização de tatuagens, desenvolvido com funcionalidades completas de CRUD (Create, Read, Update, Delete) e integração via API.*
+*Web system for displaying, managing, and commercializing tattoos, developed with full CRUD (Create, Read, Update, Delete) functionality and API integration."*
 
-Construído como projeto de portfólio para demonstrar arquitetura front-end escalável, consumo de APIs RESTful e boas práticas na organização de código e estados da aplicação.
+
 
  Frontend-Tatto é um sistema web para exibição e venda de tatuagens, apresenta funcionalidades CRUD (Create, Read, Update, Delete).
  
