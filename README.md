@@ -13,7 +13,7 @@ Built as a portfolio project to demonstrate scalable front-end architecture, sta
 
 # Table of contents
 - [What it does](#What-it-does)
-- [Como Rodar o Projeto](#como-rodar-o-projeto)
+- [How to run](#How-to-run)
 - [Architecture](#Architecture)
 - [Tech stack](#Tech-stack)
 
@@ -53,9 +53,10 @@ src/
 ├── App.tsx # Estrutura geral da aplicação
 └── main.tsx # Ponto de entrada
 ```
-
+# Architecture
 - Execute: npm install (para baixar todas as dependências Vite e do Typscript)
 
+# How to run
 2. Iniciar o projeto
 
 - Execute: npm run dev
