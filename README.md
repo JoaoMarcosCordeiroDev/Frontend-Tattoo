@@ -9,20 +9,12 @@
 
 Built as a portfolio project to demonstrate scalable front-end architecture, state management, component reusability, and clean code practices in React and TypeScript.
 
-**Frontend Tattoo** was developed to streamline management and display within tattoo studio ecosystems. The application enables dynamic catalog management and seamlessly communicates with a backend service to persist data in real-time.
-
 # Table of contents
 - [What it does](#What-it-does)
 - [How to run](#How-to-run)
 - [Architecture](#Architecture)
 - [Tech stack](#Tech-stack)
-
-
-- [About the Project](#about-the-project)
 - [Key Features](#key-features)
-- [Tech Stack](#tech-stack)
-- [Project Architecture](#project-architecture)
-- [Getting Started](#getting-started)
 - [Demonstration](#demonstration)
 - [Roadmap](#roadmap)
 - [License](#license)
@@ -30,7 +22,6 @@ Built as a portfolio project to demonstrate scalable front-end architecture, sta
 
   
 # What it does
-
 
 **Frontend Tattoo** was developed to streamline management and display within tattoo studio ecosystems. The application enables dynamic catalog management and seamlessly communicates with a backend service to persist data in real-time.
  - Criação de componentes reutilizáveis
@@ -42,51 +33,33 @@ Built as a portfolio project to demonstrate scalable front-end architecture, sta
 - **API Integration:** Asynchronous data fetching and handling via Axios.
 - **Performance:** Fast build times and module serving powered by Vite.
 
- 
-# Architecture
-
-```
-src/
-├── components/ # Componentes reutilizáveis da interface
-├── pages/ # Páginas principais
-├── assets/ # Imagens, ícones e estilos
-├── App.tsx # Estrutura geral da aplicação
-└── main.tsx # Ponto de entrada
-```
-# Architecture
-- Execute: npm install (para baixar todas as dependências Vite e do Typscript)
-
 # How to run
-2. Iniciar o projeto
 
-- Execute: npm run dev
+Run: npm install (to download all Vite and TypeScript dependencies)
+Run: npm run dev
 
 
 # Tech stack
 
--  Technology Stack
+- **Core:** React, TypeScript
+- **Build Tool:** Vite
+- **Styling:** HTML5, CSS3
+- **HTTP Client:** Axios
 
-◦ React
+## Architecture
 
-◦ JavaScript / TypeScript
+```text
+src/
+├── assets/        # Media files, icons, and global styles
+├── components/    # Reusable UI components
+├── pages/         # Application page views
+├── App.tsx        # Main application routing & layout
+└── main.tsx       # Entry point
+```
 
-◦ Vite
+## Demonstration 
+Below is the presentation of the website and its functionality.
 
-◦ HTML5 & CSS3
-
-◦ Axios
-
-```  During the development of this project, the following practices were applied: ``` 
-
-Front-end structuring and organization
-
-Creation of reusable components
-
-Use of a modern bundler (Vite)
-
-## Below is the presentation of the website and its functionality.
-
-## Abaixo segue a apresentação do site e sua funcionalidade.
 
 ![1](https://github.com/user-attachments/assets/74a7f9e1-c801-4183-9eaa-02f4920252c4)
 ![2](https://github.com/user-attachments/assets/8de782b9-eb08-4152-9bc7-8e3ef3b73c42)
