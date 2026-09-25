@@ -64,10 +64,22 @@ src/
 └── main.tsx       # Entry point
 ```
 
+## Roadmap
+
+- [x] **Core Catalog UI:** Modern interface for browsing tattoo designs with TypeScript support.
+- [x] **CRUD Operations:** Full implementation of Create, Read, Update, and Delete flows.
+- [x] **REST API Integration:** Asynchronous data handling with Axios and error states.
+- [x] **Component Architecture:** Modular, reusable UI components with Vite setup.
+- [x] **Responsive Layout:** Mobile-first layout adjustments for screen flexibility.
+- [ ] **Authentication & Authorization:** JWT-based user login and role-based access control (Admin vs. Guest view).
+- [ ] **Advanced Filtering & Search:** Filter catalog items by tattoo style, placement, artist, or tags.
+- [ ] **Image Upload Optimization:** Direct cloud integration (AWS S3 or Cloudinary) for optimized image uploading and caching.
+- [ ] **Dark / Light Theme Toggle:** Custom UI theme switcher using CSS variables or Tailwind state.
+- [ ] **Automated Testing:** Unit and component testing using Vitest and React Testing Library.
+
 ## Demonstration 
 Below is the presentation of the website and its functionality.
-
-
+      
 ![1](https://github.com/user-attachments/assets/74a7f9e1-c801-4183-9eaa-02f4920252c4)
 ![2](https://github.com/user-attachments/assets/8de782b9-eb08-4152-9bc7-8e3ef3b73c42)
 ![3](https://github.com/user-attachments/assets/0a0d3abf-c8a7-4c37-98d1-ad8b9f48e777)
