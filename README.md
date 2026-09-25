@@ -33,8 +33,9 @@ Built as a portfolio project to demonstrate scalable front-end architecture, sta
 
 # How to run
 
-Run: npm install (to download all Vite and TypeScript dependencies)
-Run: npm run dev
+1 - Run: npm install (to download all Vite and TypeScript dependencies)
+
+2 - Run: npm run dev
 
 ## Key Features
 
