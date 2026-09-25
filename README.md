@@ -24,8 +24,6 @@ Built as a portfolio project to demonstrate scalable front-end architecture, sta
 # What it does
 
 **Frontend Tattoo** was developed to streamline management and display within tattoo studio ecosystems. The application enables dynamic catalog management and seamlessly communicates with a backend service to persist data in real-time.
- - Criação de componentes reutilizáveis
-- Uso de bundler moderno (Vite)
   
   ### Highlights & Engineering Practices
 - **Front-end Architecture:** Modular structure with clear separation of concerns.
