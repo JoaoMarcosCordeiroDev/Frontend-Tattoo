@@ -36,6 +36,14 @@ Built as a portfolio project to demonstrate scalable front-end architecture, sta
 Run: npm install (to download all Vite and TypeScript dependencies)
 Run: npm run dev
 
+## Key Features
+
+- **Tattoo Catalog Display:** Dynamic rendering of artwork and details.
+- **Full CRUD Capabilities:** Add, view, update, and delete tattoo entries.
+- **Responsive Interface:** Adaptive layout tailored for desktop and mobile devices.
+- **API Communication:** Seamless integration with backend REST endpoints.
+
+---
 
 # Tech stack
 
